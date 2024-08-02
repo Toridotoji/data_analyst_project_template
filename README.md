@@ -6,7 +6,6 @@
 - [Data Sources](#data-sources)
 - [Results/ Findings](#results-finding)
 - [Recommendations](#recommendations)
-- [[#Recommendations]]
 
 ### Project Overview
 
