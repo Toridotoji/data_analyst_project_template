@@ -1,4 +1,4 @@
-# Name Of The Project
+# Project Title
 
 ## Table of Contents
 
