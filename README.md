@@ -4,6 +4,10 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 - [Results/ Findings](#results-finding)
 - [Recommendations](#recommendations)
 
