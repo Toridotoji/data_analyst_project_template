@@ -8,7 +8,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/ Findings](#results-finding)
+- [Findings](#finding)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -36,7 +36,7 @@ In the initial data preparation phase, the following tasks were performed:
 
 ### Data Analysis
 
-### Results/ Findings
+### Findings
 
 ### Recommendations
 
